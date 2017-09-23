@@ -3,7 +3,9 @@ Curriculum vitae of the owner of this repo.
 
 ## Personal Info
 name := "Zheng, Huang"
+
 cameFrom := "Xiamen, Fujian, China"
+
 contactMeVia := <u6134872@anu.edu.au>
 
 ## Educational background
