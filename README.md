@@ -24,7 +24,7 @@ Have an IELTS mark of average 8.0.
 Language learnt include: 
 - Python
 - Haskell
-- Arm code
+- ARM code
 - Java
 
 with corresponding knowledge and concepts about programming 
